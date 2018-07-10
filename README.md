@@ -7,18 +7,12 @@ Painting practice
 
 ## 第一次练习
 
-![Image text](https://github.com/Merair/paintingPractice/blob/master/1-apple/1.png)
+![第一张练习](https://github.com/Merair/paintingPractice/blob/master/1-apple/1.png)
 
---------
+![第二张练习](https://github.com/Merair/paintingPractice/blob/master/1-apple/2.png)
 
-![Image text](https://github.com/Merair/paintingPractice/blob/master/1-apple/2.png)
+![第三张练习](https://github.com/Merair/paintingPractice/blob/master/1-apple/3.png)
 
---------
-
-![Image text](https://github.com/Merair/paintingPractice/blob/master/1-apple/3.png)
-
---------
-
-![Image text](https://github.com/Merair/paintingPractice/blob/master/1-apple/4.png)
+![第四张练习](https://github.com/Merair/paintingPractice/blob/master/1-apple/4.png)
 
 --------
